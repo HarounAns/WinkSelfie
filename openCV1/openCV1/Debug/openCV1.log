@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2019: unresolved external symbol "private: void __thiscall cv::String::deallocate(void)" (?deallocate@String@cv@@AAEXXZ) referenced in function "public: __thiscall cv::String::~String(void)" (??1String@cv@@QAE@XZ)
+C:\Users\hansa\Downloads\OpenCV3.2\opencv32\build\x64\vc14\lib\opencv_world320.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\hansa\Documents\Data Structures\Project 5\openCV1\Debug\openCV1.exe : fatal error LNK1120: 1 unresolved externals

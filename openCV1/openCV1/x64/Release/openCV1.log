@@ -1,0 +1,9 @@
+﻿  wink_selfie.cpp
+wink_selfie.cpp(96): warning C4101: 'count': unreferenced local variable
+  Generating code
+  5 of 269 functions ( 1.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  openCV1.vcxproj -> C:\Users\hansa\Documents\Data Structures\Project 5\openCV1\x64\Release\openCV1.exe
+  openCV1.vcxproj -> C:\Users\hansa\Documents\Data Structures\Project 5\openCV1\x64\Release\openCV1.pdb (Full PDB)

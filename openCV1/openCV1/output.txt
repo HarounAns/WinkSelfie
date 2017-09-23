@@ -1,0 +1,27 @@
+Time taken : 15 seconds
+N = 100frames
+t-N+1 = -84
+Time taken : 26 seconds
+N = 100 frames
+t-N+1 = -73
+Time taken : 20 seconds
+N = 100 frames
+t-N+1 = -79
+Time taken : 21 seconds
+N = 100 frames
+t-N+1 = -78
+Time taken : 19 seconds
+N = 100 frames
+t-N+1 = -80
+Time taken : 49 seconds
+N = 100 frames
+t-N+1 = -50
+Time taken : 21 seconds
+N = 100 frames
+t-N+1 = -78
+Time taken : 21 seconds
+N = 100 frames
+t-N+1 = -78
+Time taken : 18 seconds
+N = 100 frames
+t-N+1 = -81
